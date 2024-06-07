@@ -63,7 +63,7 @@ soup = BeautifulSoup(src, 'lxml')
 # next_el = soup.find(class_='post__title').find_next().text  # Ищет следующий элемент
 # print(next_el)
 
-# .find_next_sibling() .finf_previous_sibling()  # Ищут элементы на этом же уровне вложенности
+# .find_next_sibling() .find_previous_sibling()  # Ищут элементы на этом же уровне вложенности
 # next_sib = soup.find(class_='post__title').find_next_sibling()  # Будет взят тег с классом post__text
 # print(next_sib)
 
