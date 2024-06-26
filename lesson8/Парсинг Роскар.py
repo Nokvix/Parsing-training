@@ -44,14 +44,11 @@ def get_data():
         r = requests.get(url=url, headers=headers)
         json_data = r.json()
         items = json_data['items']
-        
-        number_items = len(items)
-        counter = 1
 
         for item in items:
             name = item['name']
             img_src = f"https://roscarservis.ru{item['imgSrc']}"
-            url = item['url']
+            url = f"https://roscarservis.ru{item['url']}"
             price = round(float(item['price']), 2)
 
             total_count = 0
@@ -86,16 +83,12 @@ def get_data():
             }
 
             item_data_list.append(item_data)
-            print(f'Обработан товар {counter}/{number_items}')
-            counter += 1
 
-            time.sleep(random.randrange(2, 5))
+        time.sleep(random.randrange(2, 4))
 
-        print('#' * 20)
-
-    datetime_now = datetime.datetime.now().strftime('%H:%M:%S %d/%m/%y')
+    datetime_now = datetime.datetime.now().strftime('%H_%M_%S %d_%m_%y')
     with open(f'{datetime_now}_data.json', 'w', encoding='utf-8') as file:
-        json.dump(item_data_list, file)
+        json.dump(item_data_list, file, indent=4, ensure_ascii=False)
 
     diff = datetime.datetime.now() - start_time
 

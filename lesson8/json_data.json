@@ -1,0 +1,1482 @@
+{
+    "pageUrl": "/catalog/legkovye/?arCatalogFilter_458_1500340406=Y&set_filter=Y&sort%5Brecommendations%5D=asc&limit=16&PAGEN_1=1",
+    "items": [
+        {
+            "id": 113679,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "175 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "13 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 44,
+            "season": "Летние",
+            "price": 3820,
+            "name": "175/70 R13 86H CORDIANT Comfort 2 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/iblock/528/275_275_1/ufe6zk5a4l6sxej0p70nuvyhzebb4do5.png",
+            "url": "/catalog/legkovye/17570-r13-86h-cordiant-comfort-2-tl08765-113679/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "113679",
+                    "AMOUNT": "24",
+                    "PRODUCT_XML_ID": "08765",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Основной Склад",
+                    "PRICE": "3820.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "160",
+                    "PRODUCT_ID": "113679",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "08765",
+                    "STORE_XML_ID": "407",
+                    "STORE_NAME": "г. Челябинск, ул. Пионерская, 4",
+                    "PRICE": "3820.00",
+                    "PRICE_ID": "11"
+                },
+                {
+                    "STORE_ID": "161",
+                    "PRODUCT_ID": "113679",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "08765",
+                    "STORE_XML_ID": "383",
+                    "STORE_NAME": "г. Челябинск, ул. Федорова 2а",
+                    "PRICE": "3820.00",
+                    "PRICE_ID": "12"
+                },
+                {
+                    "STORE_ID": "168",
+                    "PRODUCT_ID": "113679",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "08765",
+                    "STORE_XML_ID": "391",
+                    "STORE_NAME": "г. Челябинск, ул. Бр.Кашириных, 93б",
+                    "PRICE": "3820.00",
+                    "PRICE_ID": "19"
+                },
+                {
+                    "STORE_ID": "169",
+                    "PRODUCT_ID": "113679",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "08765",
+                    "STORE_XML_ID": "403",
+                    "STORE_NAME": "г. Челябинск, Копейское шоссе, 35д",
+                    "PRICE": "3820.00",
+                    "PRICE_ID": "20"
+                },
+                {
+                    "STORE_ID": "185",
+                    "PRODUCT_ID": "113679",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "08765",
+                    "STORE_XML_ID": "415",
+                    "STORE_NAME": "г. Челябинск, Свердловский пр-т, 40а",
+                    "PRICE": "3820.00",
+                    "PRICE_ID": "21"
+                }
+            ],
+            "brand": "CORDIANT",
+            "brandCode": "403",
+            "vendorCode": "650852099",
+            "model": "Comfort 2",
+            "raznItems": []
+        },
+        {
+            "id": 104559,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "175 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "14 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 20,
+            "season": "Летние",
+            "price": 4010,
+            "name": "175/65 R14 86H CORDIANT Comfort 2 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/iblock/a30/275_275_1/mu988qgif7344kutx2nltet7gpgfdq71.png",
+            "url": "/catalog/legkovye/17565-r14-86h-cordiant-comfort-2-tl18637-104559/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "156",
+                    "PRODUCT_ID": "104559",
+                    "AMOUNT": "11",
+                    "PRODUCT_XML_ID": "18637",
+                    "STORE_XML_ID": "419",
+                    "STORE_NAME": "г. Челябинск, Свердловский тракт, 12б",
+                    "PRICE": "4010.00",
+                    "PRICE_ID": "7"
+                },
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "104559",
+                    "AMOUNT": "3",
+                    "PRODUCT_XML_ID": "18637",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Основной Склад",
+                    "PRICE": "4010.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "168",
+                    "PRODUCT_ID": "104559",
+                    "AMOUNT": "2",
+                    "PRODUCT_XML_ID": "18637",
+                    "STORE_XML_ID": "391",
+                    "STORE_NAME": "г. Челябинск, ул. Бр.Кашириных, 93б",
+                    "PRICE": "4010.00",
+                    "PRICE_ID": "19"
+                },
+                {
+                    "STORE_ID": "185",
+                    "PRODUCT_ID": "104559",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "18637",
+                    "STORE_XML_ID": "415",
+                    "STORE_NAME": "г. Челябинск, Свердловский пр-т, 40а",
+                    "PRICE": "4010.00",
+                    "PRICE_ID": "21"
+                }
+            ],
+            "brand": "CORDIANT",
+            "brandCode": "403",
+            "vendorCode": "650852166",
+            "model": "Comfort 2",
+            "raznItems": []
+        },
+        {
+            "id": 104054,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "185 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "14 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 55,
+            "season": "Летние",
+            "price": 4020,
+            "name": "185/60 R14 86H CORDIANT Comfort 2 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/iblock/74a/275_275_1/zqy202hi7zi6eq0vk0wx99db6fqculo5.png",
+            "url": "/catalog/legkovye/18560-r14-86h-cordiant-comfort-2-tl91367-104054/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "104054",
+                    "AMOUNT": "47",
+                    "PRODUCT_XML_ID": "91367",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Основной Склад",
+                    "PRICE": "4020.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "160",
+                    "PRODUCT_ID": "104054",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91367",
+                    "STORE_XML_ID": "407",
+                    "STORE_NAME": "г. Челябинск, ул. Пионерская, 4",
+                    "PRICE": "4020.00",
+                    "PRICE_ID": "11"
+                },
+                {
+                    "STORE_ID": "169",
+                    "PRODUCT_ID": "104054",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91367",
+                    "STORE_XML_ID": "403",
+                    "STORE_NAME": "г. Челябинск, Копейское шоссе, 35д",
+                    "PRICE": "4020.00",
+                    "PRICE_ID": "20"
+                }
+            ],
+            "brand": "CORDIANT",
+            "brandCode": "403",
+            "vendorCode": "650852010",
+            "model": "Comfort 2",
+            "raznItems": []
+        },
+        {
+            "id": 113681,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "195 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "15 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 8,
+            "season": "Летние",
+            "price": 4120,
+            "name": "195/50 R15 86H CORDIANT Comfort 2 PS-6 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/iblock/695/275_275_1/2v9zktdrod7el2k8wfopcz6mm7n3e44m.png",
+            "url": "/catalog/legkovye/19550-r15-86h-cordiant-comfort-2-tl08767-113681/",
+            "promo": [
+                {
+                    "ELEMENT_ID": "113006",
+                    "ELEMENT_NAME": "Шиномонтаж",
+                    "PRODUCT_ID": "113681",
+                    "PRODUCT_NAME": "195/50 R15 86H CORDIANT Comfort 2 PS-6 TL",
+                    "PRODUCT_WIDTH": "195",
+                    "PRODUCT_HEIGHT": "50",
+                    "PRODUCT_DIAMETER": "15",
+                    "PRODUCT_RUNFLAT_OFFROAD": null,
+                    "serviceCode": "66886",
+                    "servicePrice": "565"
+                }
+            ],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "160",
+                    "PRODUCT_ID": "113681",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "FORTOCHKI_732076771",
+                    "STORE_XML_ID": "407",
+                    "STORE_NAME": "г. Челябинск, ул. Пионерская, 4",
+                    "PRICE": "4120.00",
+                    "PRICE_ID": "11"
+                },
+                {
+                    "STORE_ID": "169",
+                    "PRODUCT_ID": "113681",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "FORTOCHKI_732076771",
+                    "STORE_XML_ID": "403",
+                    "STORE_NAME": "г. Челябинск, Копейское шоссе, 35д",
+                    "PRICE": "4120.00",
+                    "PRICE_ID": "20"
+                }
+            ],
+            "brand": "CORDIANT",
+            "brandCode": "",
+            "vendorCode": "732076771",
+            "model": "Comfort 2 PS-6",
+            "raznItems": []
+        },
+        {
+            "id": 104057,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "185 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "15 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 4,
+            "season": "Летние",
+            "price": 4180,
+            "name": "185/65 R15 92H CORDIANT Comfort 2 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/iblock/b38/275_275_1/cyknx22y8xs61i73fmgswl9huvl6n1wv.png",
+            "url": "/catalog/legkovye/18565-r15-92h-cordiant-comfort-2-tl91370-104057/",
+            "promo": [
+                {
+                    "ELEMENT_ID": "113006",
+                    "ELEMENT_NAME": "Шиномонтаж",
+                    "PRODUCT_ID": "104057",
+                    "PRODUCT_NAME": "185/65 R15 92H CORDIANT Comfort 2 TL",
+                    "PRODUCT_WIDTH": "185",
+                    "PRODUCT_HEIGHT": "65",
+                    "PRODUCT_DIAMETER": "15",
+                    "PRODUCT_RUNFLAT_OFFROAD": null,
+                    "serviceCode": "66886",
+                    "servicePrice": "565"
+                }
+            ],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "160",
+                    "PRODUCT_ID": "104057",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91370",
+                    "STORE_XML_ID": "407",
+                    "STORE_NAME": "г. Челябинск, ул. Пионерская, 4",
+                    "PRICE": "4180.00",
+                    "PRICE_ID": "11"
+                }
+            ],
+            "brand": "CORDIANT",
+            "brandCode": "403",
+            "vendorCode": "650852690",
+            "model": "Comfort 2",
+            "raznItems": []
+        },
+        {
+            "id": 104055,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "185 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "14 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 21,
+            "season": "Летние",
+            "price": 4230,
+            "name": "185/65 R14 90H CORDIANT Comfort 2 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/iblock/2b7/275_275_1/eh4e7j4aidex260d73pqgcfo79yp0r10.png",
+            "url": "/catalog/legkovye/18565-r14-90h-cordiant-comfort-2-tl91368-104055/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "104055",
+                    "AMOUNT": "1",
+                    "PRODUCT_XML_ID": "91368",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Основной Склад",
+                    "PRICE": "4230.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "159",
+                    "PRODUCT_ID": "104055",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91368",
+                    "STORE_XML_ID": "387",
+                    "STORE_NAME": "г. Челябинск, ул. Бр.Кашириных, 134б",
+                    "PRICE": "4230.00",
+                    "PRICE_ID": "10"
+                },
+                {
+                    "STORE_ID": "160",
+                    "PRODUCT_ID": "104055",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91368",
+                    "STORE_XML_ID": "407",
+                    "STORE_NAME": "г. Челябинск, ул. Пионерская, 4",
+                    "PRICE": "4230.00",
+                    "PRICE_ID": "11"
+                },
+                {
+                    "STORE_ID": "168",
+                    "PRODUCT_ID": "104055",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91368",
+                    "STORE_XML_ID": "391",
+                    "STORE_NAME": "г. Челябинск, ул. Бр.Кашириных, 93б",
+                    "PRICE": "4230.00",
+                    "PRICE_ID": "19"
+                },
+                {
+                    "STORE_ID": "174",
+                    "PRODUCT_ID": "104055",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91368",
+                    "STORE_XML_ID": "423",
+                    "STORE_NAME": "г. Челябинск, ул. Комарова, 34",
+                    "PRICE": "4230.00",
+                    "PRICE_ID": "25"
+                },
+                {
+                    "STORE_ID": "185",
+                    "PRODUCT_ID": "104055",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91368",
+                    "STORE_XML_ID": "415",
+                    "STORE_NAME": "г. Челябинск, Свердловский пр-т, 40а",
+                    "PRICE": "4230.00",
+                    "PRICE_ID": "21"
+                }
+            ],
+            "brand": "CORDIANT",
+            "brandCode": "403",
+            "vendorCode": "650852668",
+            "model": "Comfort 2",
+            "raznItems": []
+        },
+        {
+            "id": 104056,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "185 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "14 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 17,
+            "season": "Летние",
+            "price": 4700,
+            "name": "185/70 R14 92H CORDIANT Comfort 2 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/iblock/b9f/275_275_1/vfc492jm90eqb00nczpubp8gnmjwa7s3.png",
+            "url": "/catalog/legkovye/18570-r14-92h-cordiant-comfort-2-tl91369-104056/",
+            "promo": [],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "104056",
+                    "AMOUNT": "9",
+                    "PRODUCT_XML_ID": "91369",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Основной Склад",
+                    "PRICE": "4700.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "168",
+                    "PRODUCT_ID": "104056",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91369",
+                    "STORE_XML_ID": "391",
+                    "STORE_NAME": "г. Челябинск, ул. Бр.Кашириных, 93б",
+                    "PRICE": "4700.00",
+                    "PRICE_ID": "19"
+                },
+                {
+                    "STORE_ID": "169",
+                    "PRODUCT_ID": "104056",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91369",
+                    "STORE_XML_ID": "403",
+                    "STORE_NAME": "г. Челябинск, Копейское шоссе, 35д",
+                    "PRICE": "4700.00",
+                    "PRICE_ID": "20"
+                }
+            ],
+            "brand": "CORDIANT",
+            "brandCode": "403",
+            "vendorCode": "650852679",
+            "model": "Comfort 2",
+            "raznItems": []
+        },
+        {
+            "id": 104065,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "205 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "16 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 8,
+            "season": "Летние",
+            "price": 4750,
+            "name": "205/55 R16 94V CORDIANT Comfort 2 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/iblock/50f/275_275_1/uz3amrijf7pwp3evc5nazck4raa23gqj.png",
+            "url": "/catalog/legkovye/20555-r16-94v-cordiant-comfort-2-tl91378-104065/",
+            "promo": [
+                {
+                    "ELEMENT_ID": "113006",
+                    "ELEMENT_NAME": "Шиномонтаж",
+                    "PRODUCT_ID": "104065",
+                    "PRODUCT_NAME": "205/55 R16 94V CORDIANT Comfort 2 TL",
+                    "PRODUCT_WIDTH": "205",
+                    "PRODUCT_HEIGHT": "55",
+                    "PRODUCT_DIAMETER": "16",
+                    "PRODUCT_RUNFLAT_OFFROAD": null,
+                    "serviceCode": "66887",
+                    "servicePrice": "565"
+                }
+            ],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "156",
+                    "PRODUCT_ID": "104065",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91378",
+                    "STORE_XML_ID": "419",
+                    "STORE_NAME": "г. Челябинск, Свердловский тракт, 12б",
+                    "PRICE": "4750.00",
+                    "PRICE_ID": "7"
+                },
+                {
+                    "STORE_ID": "185",
+                    "PRODUCT_ID": "104065",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91378",
+                    "STORE_XML_ID": "415",
+                    "STORE_NAME": "г. Челябинск, Свердловский пр-т, 40а",
+                    "PRICE": "4750.00",
+                    "PRICE_ID": "21"
+                }
+            ],
+            "brand": "CORDIANT",
+            "brandCode": "403",
+            "vendorCode": "747289757",
+            "model": "Comfort 2",
+            "raznItems": []
+        },
+        {
+            "id": 104058,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "195 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "15 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 13,
+            "season": "Летние",
+            "price": 4760,
+            "name": "195/60 R15 92H CORDIANT Comfort 2 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/iblock/8de/275_275_1/2hnptjme1pu0wv1kyzsh964l8tzw0mp3.png",
+            "url": "/catalog/legkovye/19560-r15-92h-cordiant-comfort-2-tl91371-104058/",
+            "promo": [
+                {
+                    "ELEMENT_ID": "113006",
+                    "ELEMENT_NAME": "Шиномонтаж",
+                    "PRODUCT_ID": "104058",
+                    "PRODUCT_NAME": "195/60 R15 92H CORDIANT Comfort 2 TL",
+                    "PRODUCT_WIDTH": "195",
+                    "PRODUCT_HEIGHT": "60",
+                    "PRODUCT_DIAMETER": "15",
+                    "PRODUCT_RUNFLAT_OFFROAD": null,
+                    "serviceCode": "66886",
+                    "servicePrice": "565"
+                }
+            ],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "156",
+                    "PRODUCT_ID": "104058",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91371",
+                    "STORE_XML_ID": "419",
+                    "STORE_NAME": "г. Челябинск, Свердловский тракт, 12б",
+                    "PRICE": "4760.00",
+                    "PRICE_ID": "7"
+                },
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "104058",
+                    "AMOUNT": "1",
+                    "PRODUCT_XML_ID": "91371",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Основной Склад",
+                    "PRICE": "4760.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "168",
+                    "PRODUCT_ID": "104058",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91371",
+                    "STORE_XML_ID": "391",
+                    "STORE_NAME": "г. Челябинск, ул. Бр.Кашириных, 93б",
+                    "PRICE": "4760.00",
+                    "PRICE_ID": "19"
+                },
+                {
+                    "STORE_ID": "185",
+                    "PRODUCT_ID": "104058",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91371",
+                    "STORE_XML_ID": "415",
+                    "STORE_NAME": "г. Челябинск, Свердловский пр-т, 40а",
+                    "PRICE": "4760.00",
+                    "PRICE_ID": "21"
+                }
+            ],
+            "brand": "CORDIANT",
+            "brandCode": "403",
+            "vendorCode": "650852709",
+            "model": "Comfort 2",
+            "raznItems": []
+        },
+        {
+            "id": 113680,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "185 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "15 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 24,
+            "season": "Летние",
+            "price": 4840,
+            "name": "185/60 R15 84H CORDIANT Comfort 2 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/iblock/0af/275_275_1/xlj188qi9kzmlta2qs42w4iazr2jbmyj.png",
+            "url": "/catalog/legkovye/18560-r15-84h-cordiant-comfort-2-tl08766-113680/",
+            "promo": [
+                {
+                    "ELEMENT_ID": "113006",
+                    "ELEMENT_NAME": "Шиномонтаж",
+                    "PRODUCT_ID": "113680",
+                    "PRODUCT_NAME": "185/60 R15 84H CORDIANT Comfort 2 TL",
+                    "PRODUCT_WIDTH": "185",
+                    "PRODUCT_HEIGHT": "60",
+                    "PRODUCT_DIAMETER": "15",
+                    "PRODUCT_RUNFLAT_OFFROAD": null,
+                    "serviceCode": "66886",
+                    "servicePrice": "565"
+                }
+            ],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "156",
+                    "PRODUCT_ID": "113680",
+                    "AMOUNT": "2",
+                    "PRODUCT_XML_ID": "08766",
+                    "STORE_XML_ID": "419",
+                    "STORE_NAME": "г. Челябинск, Свердловский тракт, 12б",
+                    "PRICE": "4840.00",
+                    "PRICE_ID": "7"
+                },
+                {
+                    "STORE_ID": "159",
+                    "PRODUCT_ID": "113680",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "08766",
+                    "STORE_XML_ID": "387",
+                    "STORE_NAME": "г. Челябинск, ул. Бр.Кашириных, 134б",
+                    "PRICE": "4840.00",
+                    "PRICE_ID": "10"
+                },
+                {
+                    "STORE_ID": "160",
+                    "PRODUCT_ID": "113680",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "08766",
+                    "STORE_XML_ID": "407",
+                    "STORE_NAME": "г. Челябинск, ул. Пионерская, 4",
+                    "PRICE": "4840.00",
+                    "PRICE_ID": "11"
+                },
+                {
+                    "STORE_ID": "168",
+                    "PRODUCT_ID": "113680",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "08766",
+                    "STORE_XML_ID": "391",
+                    "STORE_NAME": "г. Челябинск, ул. Бр.Кашириных, 93б",
+                    "PRICE": "4840.00",
+                    "PRICE_ID": "19"
+                },
+                {
+                    "STORE_ID": "169",
+                    "PRODUCT_ID": "113680",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "08766",
+                    "STORE_XML_ID": "403",
+                    "STORE_NAME": "г. Челябинск, Копейское шоссе, 35д",
+                    "PRICE": "4840.00",
+                    "PRICE_ID": "20"
+                },
+                {
+                    "STORE_ID": "174",
+                    "PRODUCT_ID": "113680",
+                    "AMOUNT": "2",
+                    "PRODUCT_XML_ID": "08766",
+                    "STORE_XML_ID": "423",
+                    "STORE_NAME": "г. Челябинск, ул. Комарова, 34",
+                    "PRICE": "4840.00",
+                    "PRICE_ID": "25"
+                },
+                {
+                    "STORE_ID": "185",
+                    "PRODUCT_ID": "113680",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "08766",
+                    "STORE_XML_ID": "415",
+                    "STORE_NAME": "г. Челябинск, Свердловский пр-т, 40а",
+                    "PRICE": "4840.00",
+                    "PRICE_ID": "21"
+                }
+            ],
+            "brand": "CORDIANT",
+            "brandCode": "403",
+            "vendorCode": "1429118343",
+            "model": "Comfort 2",
+            "raznItems": []
+        },
+        {
+            "id": 104067,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "205 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "15 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 5,
+            "season": "Летние",
+            "price": 5110,
+            "name": "205/65 R15 99H CORDIANT Comfort 2 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/iblock/f1a/275_275_1/yrbtltxqtx0zq8kqoh8jdi3gb9tsnaso.png",
+            "url": "/catalog/legkovye/20565-r15-99h-cordiant-comfort-2-tl91380-104067/",
+            "promo": [
+                {
+                    "ELEMENT_ID": "113006",
+                    "ELEMENT_NAME": "Шиномонтаж",
+                    "PRODUCT_ID": "104067",
+                    "PRODUCT_NAME": "205/65 R15 99H CORDIANT Comfort 2 TL",
+                    "PRODUCT_WIDTH": "205",
+                    "PRODUCT_HEIGHT": "65",
+                    "PRODUCT_DIAMETER": "15",
+                    "PRODUCT_RUNFLAT_OFFROAD": null,
+                    "serviceCode": "66886",
+                    "servicePrice": "565"
+                }
+            ],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "104067",
+                    "AMOUNT": "1",
+                    "PRODUCT_XML_ID": "91380",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Основной Склад",
+                    "PRICE": "5110.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "160",
+                    "PRODUCT_ID": "104067",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91380",
+                    "STORE_XML_ID": "407",
+                    "STORE_NAME": "г. Челябинск, ул. Пионерская, 4",
+                    "PRICE": "5110.00",
+                    "PRICE_ID": "11"
+                }
+            ],
+            "brand": "CORDIANT",
+            "brandCode": "403",
+            "vendorCode": "650853919",
+            "model": "Comfort 2",
+            "raznItems": []
+        },
+        {
+            "id": 104060,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "195 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "15 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 51,
+            "season": "Летние",
+            "price": 5970,
+            "name": "195/55 R15 89H CORDIANT Comfort 2 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/iblock/d43/275_275_1/2wrfym299e6xyatov2aitz1a3cfzmf0l.png",
+            "url": "/catalog/legkovye/19555-r15-89h-cordiant-comfort-2-tl91373-104060/",
+            "promo": [
+                {
+                    "ELEMENT_ID": "113006",
+                    "ELEMENT_NAME": "Шиномонтаж",
+                    "PRODUCT_ID": "104060",
+                    "PRODUCT_NAME": "195/55 R15 89H CORDIANT Comfort 2 TL",
+                    "PRODUCT_WIDTH": "195",
+                    "PRODUCT_HEIGHT": "55",
+                    "PRODUCT_DIAMETER": "15",
+                    "PRODUCT_RUNFLAT_OFFROAD": null,
+                    "serviceCode": "66886",
+                    "servicePrice": "565"
+                }
+            ],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "104060",
+                    "AMOUNT": "43",
+                    "PRODUCT_XML_ID": "91373",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Основной Склад",
+                    "PRICE": "5970.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "169",
+                    "PRODUCT_ID": "104060",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91373",
+                    "STORE_XML_ID": "403",
+                    "STORE_NAME": "г. Челябинск, Копейское шоссе, 35д",
+                    "PRICE": "5970.00",
+                    "PRICE_ID": "20"
+                },
+                {
+                    "STORE_ID": "174",
+                    "PRODUCT_ID": "104060",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91373",
+                    "STORE_XML_ID": "423",
+                    "STORE_NAME": "г. Челябинск, ул. Комарова, 34",
+                    "PRICE": "5970.00",
+                    "PRICE_ID": "25"
+                }
+            ],
+            "brand": "CORDIANT",
+            "brandCode": "403",
+            "vendorCode": "732076783",
+            "model": "Comfort 2",
+            "raznItems": []
+        },
+        {
+            "id": 104059,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "205 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "16 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 16,
+            "season": "Летние",
+            "price": 6000,
+            "name": "205/60 R16 96H CORDIANT Comfort 2 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/iblock/58d/275_275_1/lfvy7b2fjsv4391p2gaq4yh5vklmqft0.png",
+            "url": "/catalog/legkovye/20560-r16-96h-cordiant-comfort-2-tl91372-104059/",
+            "promo": [
+                {
+                    "ELEMENT_ID": "113006",
+                    "ELEMENT_NAME": "Шиномонтаж",
+                    "PRODUCT_ID": "104059",
+                    "PRODUCT_NAME": "205/60 R16 96H CORDIANT Comfort 2 TL",
+                    "PRODUCT_WIDTH": "205",
+                    "PRODUCT_HEIGHT": "60",
+                    "PRODUCT_DIAMETER": "16",
+                    "PRODUCT_RUNFLAT_OFFROAD": null,
+                    "serviceCode": "66887",
+                    "servicePrice": "565"
+                }
+            ],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "156",
+                    "PRODUCT_ID": "104059",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91372",
+                    "STORE_XML_ID": "419",
+                    "STORE_NAME": "г. Челябинск, Свердловский тракт, 12б",
+                    "PRICE": "6000.00",
+                    "PRICE_ID": "7"
+                },
+                {
+                    "STORE_ID": "159",
+                    "PRODUCT_ID": "104059",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91372",
+                    "STORE_XML_ID": "387",
+                    "STORE_NAME": "г. Челябинск, ул. Бр.Кашириных, 134б",
+                    "PRICE": "6000.00",
+                    "PRICE_ID": "10"
+                },
+                {
+                    "STORE_ID": "160",
+                    "PRODUCT_ID": "104059",
+                    "AMOUNT": "2",
+                    "PRODUCT_XML_ID": "91372",
+                    "STORE_XML_ID": "407",
+                    "STORE_NAME": "г. Челябинск, ул. Пионерская, 4",
+                    "PRICE": "6000.00",
+                    "PRICE_ID": "11"
+                },
+                {
+                    "STORE_ID": "168",
+                    "PRODUCT_ID": "104059",
+                    "AMOUNT": "3",
+                    "PRODUCT_XML_ID": "91372",
+                    "STORE_XML_ID": "391",
+                    "STORE_NAME": "г. Челябинск, ул. Бр.Кашириных, 93б",
+                    "PRICE": "6000.00",
+                    "PRICE_ID": "19"
+                },
+                {
+                    "STORE_ID": "185",
+                    "PRODUCT_ID": "104059",
+                    "AMOUNT": "3",
+                    "PRODUCT_XML_ID": "91372",
+                    "STORE_XML_ID": "415",
+                    "STORE_NAME": "г. Челябинск, Свердловский пр-т, 40а",
+                    "PRICE": "6000.00",
+                    "PRICE_ID": "21"
+                }
+            ],
+            "brand": "CORDIANT",
+            "brandCode": "403",
+            "vendorCode": "650853069",
+            "model": "Comfort 2",
+            "raznItems": []
+        },
+        {
+            "id": 113682,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "195 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "16 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 6,
+            "season": "Летние",
+            "price": 6700,
+            "name": "195/55 R16 91H CORDIANT Comfort 2 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/iblock/f44/275_275_1/stsak5plksjkeoegnx8kk3ooh74zhu8c.png",
+            "url": "/catalog/legkovye/19555-r16-91h-cordiant-comfort-2-tl08768-113682/",
+            "promo": [
+                {
+                    "ELEMENT_ID": "113006",
+                    "ELEMENT_NAME": "Шиномонтаж",
+                    "PRODUCT_ID": "113682",
+                    "PRODUCT_NAME": "195/55 R16 91H CORDIANT Comfort 2 TL",
+                    "PRODUCT_WIDTH": "195",
+                    "PRODUCT_HEIGHT": "55",
+                    "PRODUCT_DIAMETER": "16",
+                    "PRODUCT_RUNFLAT_OFFROAD": null,
+                    "serviceCode": "66887",
+                    "servicePrice": "565"
+                }
+            ],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "158",
+                    "PRODUCT_ID": "113682",
+                    "AMOUNT": "1",
+                    "PRODUCT_XML_ID": "08768",
+                    "STORE_XML_ID": "351",
+                    "STORE_NAME": "Основной Склад",
+                    "PRICE": "6700.00",
+                    "PRICE_ID": "9"
+                },
+                {
+                    "STORE_ID": "164",
+                    "PRODUCT_ID": "113682",
+                    "AMOUNT": "1",
+                    "PRODUCT_XML_ID": "08768",
+                    "STORE_XML_ID": "295",
+                    "STORE_NAME": "г. Челябинск, Свердловский тракт, 4д",
+                    "PRICE": "6700.00",
+                    "PRICE_ID": "15"
+                },
+                {
+                    "STORE_ID": "174",
+                    "PRODUCT_ID": "113682",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "08768",
+                    "STORE_XML_ID": "423",
+                    "STORE_NAME": "г. Челябинск, ул. Комарова, 34",
+                    "PRICE": "6700.00",
+                    "PRICE_ID": "25"
+                }
+            ],
+            "brand": "CORDIANT",
+            "brandCode": "403",
+            "vendorCode": "732076796",
+            "model": "Comfort 2",
+            "raznItems": []
+        },
+        {
+            "id": 104062,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "215 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "16 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 12,
+            "season": "Летние",
+            "price": 6930,
+            "name": "215/60 R16 99H CORDIANT Comfort 2 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/iblock/3c5/275_275_1/9hgl8x0mtk22of2jwn1hp54jzfzirnlf.png",
+            "url": "/catalog/legkovye/21560-r16-99h-cordiant-comfort-2-tl91375-104062/",
+            "promo": [
+                {
+                    "ELEMENT_ID": "113006",
+                    "ELEMENT_NAME": "Шиномонтаж",
+                    "PRODUCT_ID": "104062",
+                    "PRODUCT_NAME": "215/60 R16 99H CORDIANT Comfort 2 TL",
+                    "PRODUCT_WIDTH": "215",
+                    "PRODUCT_HEIGHT": "60",
+                    "PRODUCT_DIAMETER": "16",
+                    "PRODUCT_RUNFLAT_OFFROAD": null,
+                    "serviceCode": "66887",
+                    "servicePrice": "565"
+                }
+            ],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "160",
+                    "PRODUCT_ID": "104062",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91375",
+                    "STORE_XML_ID": "407",
+                    "STORE_NAME": "г. Челябинск, ул. Пионерская, 4",
+                    "PRICE": "6930.00",
+                    "PRICE_ID": "11"
+                },
+                {
+                    "STORE_ID": "174",
+                    "PRODUCT_ID": "104062",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91375",
+                    "STORE_XML_ID": "423",
+                    "STORE_NAME": "г. Челябинск, ул. Комарова, 34",
+                    "PRICE": "6930.00",
+                    "PRICE_ID": "25"
+                },
+                {
+                    "STORE_ID": "185",
+                    "PRODUCT_ID": "104062",
+                    "AMOUNT": "4",
+                    "PRODUCT_XML_ID": "91375",
+                    "STORE_XML_ID": "415",
+                    "STORE_NAME": "г. Челябинск, Свердловский пр-т, 40а",
+                    "PRICE": "6930.00",
+                    "PRICE_ID": "21"
+                }
+            ],
+            "brand": "CORDIANT",
+            "brandCode": "403",
+            "vendorCode": "732059782",
+            "model": "Comfort 2",
+            "raznItems": []
+        },
+        {
+            "id": 113683,
+            "isNew": false,
+            "EDIT_LINK": null,
+            "DELETE_LINK": null,
+            "props": [
+                {
+                    "name": "Ширина",
+                    "value": "205 "
+                },
+                {
+                    "name": "Диаметр",
+                    "value": "16 "
+                }
+            ],
+            "type": "tires",
+            "isPromo": null,
+            "amount": 6,
+            "season": "Летние",
+            "price": 7050,
+            "name": "205/65 R16 99H CORDIANT Comfort 2 TL",
+            "sectionId": 7278,
+            "sectionName": "Легковые",
+            "sectionPath": [
+                {
+                    "ID": "7278",
+                    "NAME": "Легковые"
+                },
+                {
+                    "ID": "7267",
+                    "NAME": "Шины"
+                }
+            ],
+            "imgSrc": "/upload/resize_cache/iblock/532/275_275_1/q72qicwqnvkhey7orsgejsa6mzw4xq2y.png",
+            "url": "/catalog/legkovye/20565-r16-99h-cordiant-comfort-2-tl08769-113683/",
+            "promo": [
+                {
+                    "ELEMENT_ID": "113006",
+                    "ELEMENT_NAME": "Шиномонтаж",
+                    "PRODUCT_ID": "113683",
+                    "PRODUCT_NAME": "205/65 R16 99H CORDIANT Comfort 2 TL",
+                    "PRODUCT_WIDTH": "205",
+                    "PRODUCT_HEIGHT": "65",
+                    "PRODUCT_DIAMETER": "16",
+                    "PRODUCT_RUNFLAT_OFFROAD": null,
+                    "serviceCode": "20970",
+                    "servicePrice": "670"
+                }
+            ],
+            "discountStores": [],
+            "externalStores": [],
+            "commonStores": [
+                {
+                    "STORE_ID": "156",
+                    "PRODUCT_ID": "113683",
+                    "AMOUNT": "6",
+                    "PRODUCT_XML_ID": "08769",
+                    "STORE_XML_ID": "419",
+                    "STORE_NAME": "г. Челябинск, Свердловский тракт, 12б",
+                    "PRICE": "7050.00",
+                    "PRICE_ID": "7"
+                }
+            ],
+            "brand": "CORDIANT",
+            "brandCode": "403",
+            "vendorCode": "732076967",
+            "model": "Comfort 2",
+            "raznItems": []
+        }
+    ],
+    "promo": [
+        {
+            "id": "55674",
+            "url": "/promo/toplivo-v-podarok/",
+            "name": "Топливо в подарок",
+            "text": "<p>\r\n\t Купите комплект шин Torero (4шт в одном чеке) и получите до 3500 рублей на топливо!*\r\n</p>",
+            "imgSrc": "/upload/iblock/8ee/i5e1470n8qsck0496kgmhm8irjd7ik7r.jpg",
+            "videoSrc": null
+        },
+        {
+            "id": "122200",
+            "url": "/promo/keshbek-za-shiny/",
+            "name": "Кэшбэк за шины",
+            "text": "Купите комплект летних шин Cordiant, или Gislaved, и получите до 15&#37; кэшбэка деньгами!",
+            "imgSrc": "/upload/resize_cache/iblock/c26/1075_613_1/ktlo0ph25dk1waymzhlrxdd41sssfw7q.jpg",
+            "videoSrc": null
+        },
+        {
+            "id": "165954",
+            "url": "/promo/shiny-v-rassrochku/",
+            "name": "Покупки в рассрочку",
+            "text": "Теперь вы можете купить легковые шины, или диски в рассрочку быстро и легко: без первоначального взноса и без переплаты!",
+            "imgSrc": "/upload/resize_cache/iblock/c53/1075_613_1/xghv9j7by6qhk6c8pk3fo981jp973q0b.jpg",
+            "videoSrc": null
+        },
+        {
+            "id": "62474",
+            "url": "/promo/rasshirennaya-garantiya-na-shiny/",
+            "name": "Расширенная гарантия на шины!",
+            "text": "<p>\r\n\t Хотите&nbsp;ездить, не боясь пробоев и проколов? Покупайте шины с расширенной гарантией!<br>\r\n</p>",
+            "imgSrc": "/upload/resize_cache/iblock/888/1075_613_1/jpz7hk5nkxd1h2nw2kg6v2y6bgp1k3n9.jpg",
+            "videoSrc": null
+        }
+    ],
+    "promoFilter": {
+        "IBLOCK_ID": 10,
+        "ACTIVE": "Y",
+        "ACTIVE_DATE": "Y",
+        "=PROPERTY_SECTION": 206,
+        "=PROPERTY_CATALOG_SEASON": [
+            false,
+            204
+        ]
+    },
+    "diffWideMode": false,
+    "navNum": 1,
+    "pagesCount": 136,
+    "pageNum": 1
+}
