@@ -23,9 +23,6 @@ def edit_number(discount_str: str):
     return discount
 
 
-
-
-
 def get_page_count():
     url = 'https://www.labirint.ru/genres/2308/'
 
@@ -133,6 +130,7 @@ def get_data(i):
         print(f'Обработал данные книги {counter}/{len(book_cards)}')
         counter += 1
 
+
 def main():
     global data_books_list
 
@@ -164,8 +162,6 @@ def main():
 
     with open('data.json', 'w', encoding='utf-8') as file:
         json.dump(data_books_list, file, indent=4, ensure_ascii=False)
-
-
 
     diff = datetime.datetime.now() - start_time
     print(f'Затрачено на парсинг {diff}')
