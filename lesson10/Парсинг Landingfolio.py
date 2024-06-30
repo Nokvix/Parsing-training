@@ -1,3 +1,4 @@
+import datetime
 import time
 
 import requests
@@ -144,12 +145,62 @@ def get_landings_data(page_count):
     #     json.dump(images_urls_dict, file, indent=4, ensure_ascii=False)
 
     print('Сбор данных закончен')
-    print(f'Сохранены ссылки на {image_count} изображений')
+    # print(f'Сохранены ссылки на {image_count} изображений')
+
+
+def download_screenshots(file_path):
+    global image_count
+
+    try:
+        with open(file_path, 'r', encoding='utf-8') as file:
+            src = json.load(file)
+    except Exception as ex:
+        print(ex)
+        return 'Проверьте путь до файла'
+
+    landings_count = len(src)
+    counter = 1
+
+    print(f'Будет загружено {image_count} изображений')
+
+    for landing in src[:5]:
+        title = landing['title'].strip()
+
+        if not os.path.exists(f'images/{title}'):
+            os.mkdir(f'images/{title}')
+
+        for type_img in ['mobile', 'desktop']:
+            for img in landing[f'screenshots_{type_img}']:
+                img_title = f'{img["title"]}-{type_img}'
+                img_url = img['url']
+
+                response = requests.get(url=img_url, headers=headers)
+
+                with open(f'images/{title}/{img_title}.png', 'wb') as file:
+                    file.write(response.content)
+
+        print(f'Загрузил изображения с лэндинга {counter}/{landings_count}')
+        counter += 1
+        time.sleep(1)
+
+    return 'Скачивание изображний завешено'
 
 
 def main():
-    page_count = get_page_count()
-    get_landings_data(page_count)
+    start_time = datetime.datetime.now()
+
+    # page_count = get_page_count()
+    # get_landings_data(page_count)
+    middle_time = datetime.datetime.now()
+
+    print(f'На сбор данных и сохранение в json потрачено {middle_time - start_time}')
+
+    print(download_screenshots('all_landings_json.json'))
+
+    finish_time = datetime.datetime.now()
+
+    print(f'На скачивание изображений потрачено {finish_time - middle_time}')
+    print(f'Всего на работу затрачено {finish_time - start_time}')
 
 
 if __name__ == '__main__':
